@@ -1,11 +1,1 @@
-- HI I AM CHAITHANYA SAI KRISHNA
-- FROM ANANTAPUR ANDHRA PRADESH
-- UNDERGRADUATE STUDENT IN SVIT COLLEGE
-- FROM ELETRONICS AND COMMUNICATION ENGINEERING
-- 
-- 
-
-<!---
-362csk/362csk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Engineer fresher with a B.Tech in Electronics & Communication Engineering (2025). Hands-on with full-stack web development using HTML, CSS, and JavaScript, backend APIs, SQL databases, user authentication, and CRUD operations. Built REST API endpoints and web applications with structured database schemas, client-side validation, and Git version control. Strong in debugging, testing, and writing clean, maintainable code, and eager to grow with Java and Spring Boot in an Agile team.
